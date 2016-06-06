@@ -23,7 +23,7 @@ There are 3 main components of this feature:
 </ul>
 
 
-<This repository includes the following subdirectories:</b>
+<b>This repository includes the following subdirectories:</b>
 <ul>
  <li>MHRSharing_war - exploded war ready to be deployed on Tomcat</li>
  <li>MHRSharingSystem - root project directory that can be imported in IDE such as Eclipse, IntelliJ etc.</li>
