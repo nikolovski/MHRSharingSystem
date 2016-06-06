@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/MHRSharing"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="Tomcat 7.0.68" scope="PROVIDED"/>
+	<levels>
+		<level name="Tomcat 7.0.68" value="application_server_libraries"/>
+		<level name="mail" value="project"/>
+		<level name="org.openehealth.ipf.oht.mdht:ipf-oht-mdht-uml-cda-ccd:1.2.0.201212201425" value="project"/>
+		<level name="ipf-oht-mdht-uml-cda-ccd-1.2.0.201212201425-sources" value="project"/>
+		<level name="JDBConnectNQuery" value="project"/>
+		<level name="CCDSecurity" value="project"/>
+	</levels>
+</component>
