@@ -14,36 +14,38 @@ There are 3 main components of this feature:
 <p>
 
  
- 
-<b>This directory includes the following files:</b>
-
-MHR Sharing System Documentation.docx
-MHR Sharing System Documentation.pdf
-Team Tasks, Sprints and BurnDown tables.xlsx
-MHRSharing.war
-
-
-This directory includes the following subdirectories:
-
-MHRSharing_war - exploded war ready to be deployed on Tomcat
-MHRSharingSystem - root project directory that can be imported in IDE such as Eclipse, IntelliJ etc.
-Preconfigured files - contains files needed to overwrite existing files
-SQL Statements - required to populate the openemr database with sample data
-Screenshots - screenshots of the MHR Sharing System
-
-Used versions of programs and features:
-
-XAMPP 7.0.6 / PHP 7.0.6 
-Apache 2.4.18
-MySQL phpMyAdmin 4.5.1
-Tomcat 7.0.56
-openEMR 4.2.2
-
-Default port configurations:
-Apache - 80
-MySQL - 3306
-Tomcat - 8080
+<b>This repository includes the following:</b>
+<ul>
+ <li>MHR Sharing System Documentation.docx</li>
+ <li>MHR Sharing System Documentation.pdf</li>
+ <li>Team Tasks, Sprints and BurnDown tables.xlsx</li>
+ <li>MHRSharing.war</li>
+</ul>
 
 
+<This repository includes the following subdirectories:</b>
+<ul>
+ <li>MHRSharing_war - exploded war ready to be deployed on Tomcat</li>
+ <li>MHRSharingSystem - root project directory that can be imported in IDE such as Eclipse, IntelliJ etc.</li>
+ <li>Preconfigured files - contains files needed to overwrite existing files</li>
+ <li>SQL Statements - required to populate the openemr database with sample data</li>
+ <li>Screenshots - screenshots of the MHR Sharing System</li>
+</ul>
 
 
+<b>Used versions of programs and features:</b>
+<ul>
+ <li>XAMPP 7.0.6 / PHP 7.0.6 </li>
+ <li>Apache 2.4.18</li>
+ <li>MySQL phpMyAdmin 4.5.1</li>
+ <li>Tomcat 7.0.56</li>
+ <li>openEMR 4.2.2</li>
+</ul>
+
+
+<b>Default port configurations:</b>
+<ul>
+ <li>Apache - 80</li>
+ <li>MySQL - 3306</li>
+ <li>Tomcat - 8080</li>
+</ul>
