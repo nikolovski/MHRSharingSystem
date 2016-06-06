@@ -1,4 +1,4 @@
-This directory includes the following files:
+<b>This directory includes the following files:<b>
 
 MHR Sharing System Documentation.docx
 MHR Sharing System Documentation.pdf
