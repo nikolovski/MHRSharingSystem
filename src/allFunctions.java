@@ -58,7 +58,7 @@ public abstract class allFunctions {
 
     public static void defaultConfiguration(){
         configEmail = "openemr.healthrecord@gmail.com";
-        configEmailPassword = "Cook68^put^^";
+        configEmailPassword = "-----";
         configEmailHost = "smtp.gmail.com";
         configEmailPort = "587";
     }
