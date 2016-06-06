@@ -1,7 +1,17 @@
 <b>MEDICAL HEALTH RECORD SHARING SYSTEM</b>
 <br>
+provided by
+<br>
 <img src="https://raw.githubusercontent.com/nikolovski/MHRSharingSystem/master/web/images/404logo.png">
 
+<p>Our team developed a module/feature for Open EMR medical system, that will save time and effort in sharing patient information between medical offices. This feature will be user-friendly, intuitive and simple to use.
+There are 3 main components of this feature:
+<ul>
+ <li>Extracting the patient’s record from the openEMR database</li>
+ <li>Sharing the exported patient record through email</li>
+ <li>Decoding existing encoded patient record</li>
+</ul>
+<p>
 
  
  
